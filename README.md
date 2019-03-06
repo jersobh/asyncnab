@@ -1,2 +1,2 @@
 # asyncnab
-Biblioteca para geração de boletos bancários e arquivos de remessa/registro, bem como integrações a webservices quando possível.
+Biblioteca para geração de boletos bancários e arquivos de remessa/registro e integrações a webservices.
